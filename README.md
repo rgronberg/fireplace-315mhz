@@ -1,6 +1,6 @@
 # 315 MHz ESPHome Fireplace Remote
 
-Remote code reversing project that allows me to control my fireplace through Home Assistant with anESP8266 and a cheap 315 MHz transmitter module and a simple ESPHome setup. Below you can see the small circuit I put together using a 3.3v Hi-Link power supply, an ESP-01s MCU (and required passives), and a 315MHz transmitter module.
+Remote code reversing project that allows me to control my fireplace through Home Assistant with an ESP8266 and a cheap 315 MHz transmitter module and a simple ESPHome setup. Below you can see the small circuit I put together using a 3.3v Hi-Link power supply, an ESP-01s MCU (and required passives), and a 315MHz transmitter module.
 
 <img src="data/circuit.jpg" alt="Image of circuit" width="600">
 <img src="data/enclosure.jpg" alt="Image of enclosure" width="600">
